@@ -1,0 +1,33 @@
+# Node.js dependencies
+project-lambda\eduvlm-site\node_modules\
+
+# Specific environment file
+project-lambda\eduvlm-site\.env
+
+# Logs
+project-lambda\eduvlm-site\npm-debug.log*
+project-lambda\eduvlm-site\yarn-debug.log*
+project-lambda\eduvlm-site\yarn-error.log*
+
+# Optional OS-specific files
+project-lambda\eduvlm-site\.DS_Store
+project-lambda\eduvlm-site\Thumbs.db
+project-lambda\eduvlm-site\package-lock.json
+
+# IDE/editor directories and files
+project-lambda\eduvlm-site\.vscode\
+project-lambda\eduvlm-site\.idea\
+project-lambda\eduvlm-site\*.sublime-workspace
+project-lambda\eduvlm-site\*.sublime-project
+
+# Temporary or system files
+project-lambda\eduvlm-site\*.swp
+project-lambda\eduvlm-site\*~
+project-lambda\eduvlm-site\*.bak
+
+# Task or info files
+project-lambda\eduvlm-site\info.txt
+project-lambda\eduvlm-site\task.txt
+
+# LeaderBoard Duplicate
+project-lambda\eduvlm-site\leaderboard_duplicate\
